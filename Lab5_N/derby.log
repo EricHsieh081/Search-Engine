@@ -1,0 +1,26 @@
+----------------------------------------------------------------
+2015-06-01 09:22:20.885 GMT:
+ Booting Derby version The Apache Software Foundation - Apache Derby - 10.4.2.0 - (689064): instance a816c00e-014d-ae6d-caf7-00005271bfa8
+on database directory /home/cloud2015/100062243/Lab5/metastore_db  
+
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+2015-06-01 09:22:26.198 GMT:
+ Booting Derby version The Apache Software Foundation - Apache Derby - 10.4.2.0 - (689064): instance 6302404f-014d-ae6d-caf7-00005271bfa8
+on database directory /home/cloud2015/100062243/Lab5/TempStatsStore  
+
+Database Class Loader started - derby.database.classpath=''
+
+2015-06-01 09:22:26.268 GMT:
+Shutting down instance 6302404f-014d-ae6d-caf7-00005271bfa8
+----------------------------------------------------------------
+----------------------------------------------------------------
+2015-06-01 09:22:59.295 GMT:
+ Booting Derby version The Apache Software Foundation - Apache Derby - 10.4.2.0 - (689064): instance 7c740060-014d-ae6d-caf7-00005271bfa8
+on database directory /home/cloud2015/100062243/Lab5/TempStatsStore  
+
+Database Class Loader started - derby.database.classpath=''
+
+2015-06-01 09:22:59.725 GMT:
+Shutting down instance 7c740060-014d-ae6d-caf7-00005271bfa8
+----------------------------------------------------------------
